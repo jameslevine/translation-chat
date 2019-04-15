@@ -8,5 +8,5 @@ put down your name and avalibility: 1-2 days
 |  Kate       | Yes          | 2 days  | yes              |
 |  James      | Yes          | 2 days  | no               |
 |     Anna    | Yes          |  2 days  |    no              |
-|             |              |         |                  |
+|   Freddie   | Yes          | all days | TBC              |
 |             |              |         |                  |
