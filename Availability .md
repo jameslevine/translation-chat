@@ -14,3 +14,5 @@ put down your name and avalibility: 1-2 days
 |       Anna B     | No 😢            | -      | no                 |
 |       Sylvia     | Yes            | 2 days      | TBC                 |
 | Sam| No | - | -|
+| Ryan| No | - | -|
+
