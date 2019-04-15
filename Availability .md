@@ -11,3 +11,4 @@ put down your name and avalibility: 1-2 days
 |   Freddie   | Yes          | all days | TBC              |
 |       Henry      | Maybe             | 2 days         | TBC                 |
 |       Joko      | Maybe             | 2 days         | no                 |
+|       Anna B     | No 😢            | -      | no                 |
