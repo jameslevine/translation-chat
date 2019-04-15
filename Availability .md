@@ -9,4 +9,4 @@ put down your name and avalibility: 1-2 days
 |  James      | Yes          | 2 days  | no               |
 |     Anna    | Yes          |  2 days  |    no              |
 |   Freddie   | Yes          | all days | TBC              |
-|             |              |         |                  |
+|       Henry      | Maybe             | 2 days         | TBC                 |
