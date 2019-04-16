@@ -16,4 +16,5 @@ put down your name and avalibility: 1-2 days
 | Sam| No | - | -|
 | Ryan| No | - | -|
 | Banna| Maybe | - | -|
+| Rohan | Maybe | 0 to 2 | no |
 
