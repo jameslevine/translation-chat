@@ -22,3 +22,7 @@ Wrong. In 2017, 354 books were ‘challenged’ in the US. The American Librarie
 Let's create **a tool that allows concerned individuals to report book challenges**, and display the results in a **live data visualisation**.
 
 
+## Travelling Salesman algorithm routing for charities
+
+Charity volunteers drive around and collect cash buckets from corner shops etc. Could we write a live routing app to map out the best route for them to take based on a list of locations to visit. It would also be good to incorporate safety features - perhaps a check-in at each stop, an alarm button if something goes wrong etc.
+[Link to the original issue](https://github.com/FAC-Sixteen/student-project-ideas/issues/2)
