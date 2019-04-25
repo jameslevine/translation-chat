@@ -26,3 +26,14 @@ Let's create **a tool that allows concerned individuals to report book challenge
 
 Charity volunteers drive around and collect cash buckets from corner shops etc. Could we write a live routing app to map out the best route for them to take based on a list of locations to visit. It would also be good to incorporate safety features - perhaps a check-in at each stop, an alarm button if something goes wrong etc.
 [Link to the original issue](https://github.com/FAC-Sixteen/student-project-ideas/issues/2)
+
+## Translation live chat app widget to add on to your website
+
+Chat bots exist in all businesses but none of them really offer the option to converse easily with a foreign customer, client or person at ease.
+Ideally a solution would exist that acts as a middleman translator so that the client could speak in their natural language and it would automatically be translated (perhaps an API exists for this).
+It could act like a 4 step process:
+Client writes to you in their mother tongue.
+Chat bot translates their text and you see their text in your language.
+You write a response in your language.
+Chat bot translates your reply and shows the client the version of your reply in their language instead.
+This would solve a big problem in companies and startups looking to grow internationally but cant speak the language of their clients and therefore clients are forced to speak in English which can be very difficult.
