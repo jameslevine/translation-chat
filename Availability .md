@@ -7,7 +7,7 @@ put down your name and avalibility: 1-2 days
 | ----------- |-------------| --------| ----------------|
 |  Kate       | Yes          | 2 days  | yes              |
 |  James      | Yes          | 2 days  | no               |
-|     Anna    | Yes          | 1 - Wed  |    no              |
+|     Anna    | No:((          | - |    no              |
 |   Freddie   | Yes          | all days | TBC              |
 |       Henry      | Maybe             | 2 days         | TBC                 |
 |       Joko      | No             | 2 days         | no                 |
