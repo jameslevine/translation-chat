@@ -9,7 +9,7 @@ put down your name and avalibility: 1-2 days
 |  James      | Yes          | 2 days  | no               |
 |     Anna    | No:((          | - |    no              |
 |   Freddie   | Yes          | all days | TBC              |
-|       Henry      | Maybe             | 2 days         | TBC                 |
+|       Henry      | No, sadly not in town now             | 2 days         | TBC                 |
 |       Joko      | No             | 2 days         | no                 |
 |       Anna B     | No 😢            | -      | no                 |
 |       Sylvia     | Yes            | 2 days      | TBC                 |
