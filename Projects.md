@@ -38,7 +38,7 @@ You write a response in your language.
 Chat bot translates your reply and shows the client the version of your reply in their language instead.
 This would solve a big problem in companies and startups looking to grow internationally but cant speak the language of their clients and therefore clients are forced to speak in English which can be very difficult.
 
-## Athletes Primes Over Time
+## Athletes Primes Over Time (Data Visualisation)
 
 **Have top athletes primes got longer over time?**
 
