@@ -1,5 +1,3 @@
-
-
 exports.get = (req,res) => {
 
     res
