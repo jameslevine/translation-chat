@@ -1,4 +1,3 @@
-
 exports.client = (req, res) => {
   res
     .status(404)
