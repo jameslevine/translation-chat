@@ -13,10 +13,13 @@ const router = express.Router();
 router.get ('/', home.get);
 
 router.get (/translate/, (req, res) => {
-    apiTranslation()
-    .then(result => {
-        console.log('router: ', res);
-        res.render('translation', { translationData: result});
+
+    const value = req.url.split('=')[1];
+    
+    apiTranslation(value)
+    .then(translationData => {
+        res.end(JSON.stringify(translationData));
+        // res.render('home', { translationData });
     })
     .catch(err => {
         res.status(500).render('500');
