@@ -19,7 +19,10 @@ router.get (/translate/, (req, res) => {
 
     const value = req.url.split('=')[1];
     
-    apiTranslation(value)
+    const lang = req.url.split('=')[2];
+
+
+    apiTranslation(value, lang)
     .then(translationData => {
         res.end(JSON.stringify(translationData));
         // res.render('home', { translationData });

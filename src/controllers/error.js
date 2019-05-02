@@ -5,7 +5,7 @@ exports.client = (req, res) => {
 };
 
 exports.server = (err, req, res, next) => {
-  console.log(err.message);
+  console.log(err.message , 'This is err in controller error.js');
   res
     .status(500)
     .render('500');
