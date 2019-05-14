@@ -2,7 +2,7 @@ const axios = require('axios');
 const env = require('env2');
 env('./.env');
 
-async function getTranslation(value , lang) {
+async function getTranslation(value, lang) {
     const targetLanguage = lang;
     const apiURL = `https://translation.googleapis.com/language/translate/v2?key=${process.env.API_KEY}&q=${value}&target=${targetLanguage}`;
 
