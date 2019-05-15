@@ -12,20 +12,18 @@ fetch('/language')
 .catch(err => console.log(err , 'This is err in dom.js'))
 
 
-  const dropDown = (data)=> { 
+  const dropDown = (data)=> {
       return data.map(i => {
        const opt = document.createElement('option')
      opt.value = i.code;
-     opt.textContent = i.code;
+     opt.textContent = i.name;
      dropdownLang.appendChild(opt);
-     
      });
     }
 
+button.addEventListener('click', () => fetchRequest(input.value, dropdownLang.value));
 
-button.addEventListener('click', () => fetchRequest(input.value , dropdownLang.value));
-
-const fetchRequest = (input , lang) => {
+const fetchRequest = (input, lang) => {
     fetch(`/translate?=${input}=${lang}`)
     .then(result => result.json())
     .then(data => {populateOutput(data)})
@@ -38,5 +36,3 @@ const populateOutput = (data) => {
     text.textContent = data.translatedText;
     document.body.appendChild(text);
 }
-
-
